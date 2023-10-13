@@ -1,0 +1,6 @@
+site_name: Kamailio Modules Abstract
+
+theme:
+  name: readthedocs
+  locale: pt_BR
+  highlightjs: true
